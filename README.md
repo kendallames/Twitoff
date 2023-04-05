@@ -5,3 +5,4 @@ Hello Everyone! In this project, I learned how to build a web application using 
 # Skills Learned 
 - Flask
 - Logistic regression
+- SQLite
